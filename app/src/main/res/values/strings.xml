@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Dice Example</string>
+    <string name="app_name">Dice App</string>
+    <string name="crit_hit"> Critical Hit!</string>
+    <string name="crit_miss">Critical Miss!</string>
+    <string name="todo">TODO</string>
+    <string name="shows_dice">shows dice</string>
+    <string name="empty_string"> </string>
 </resources>
